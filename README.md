@@ -1,2 +1,3 @@
-# daybook
-Website and privacy policy for the Daybook planner app
+# ProToCal
+
+Website and privacy policy for the ProToCal research planner app.
